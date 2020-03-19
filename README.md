@@ -1,6 +1,6 @@
 ## VHB 2020: Tools for Generating and Disseminating Quantitative Research: R Package Development and Cloud Computing
 
-Github page for the [82nd Annual Business Researcher Conference (VHB)](www.bwl2020.org) session on tools for generating and disseminating quantitative research.
+Github page for the [82nd Annual Business Researcher Conference (VHB)](http://www.bwl2020.org) session on tools for generating and disseminating quantitative research.
 
 ### How to Share Your Research by Developing R Packages
 
